@@ -102,7 +102,6 @@
                       and Some Role IDs. The bot never requests for any personal
                       data of the users and any act that breaks the Tos of
                       Discord is discouraged by us!
-                      
                       The bot may record edited or deleted messages to a logging channel, depending on the server administrator's settings.
                     </p>
                   </div>
